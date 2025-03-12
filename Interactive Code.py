@@ -22,5 +22,5 @@ class LogisticSystem:
 
 # Example usage
 logistic_system = LogisticSystem()
-logistic_system.add_shipment("001", "New York", 10)
+logistic_system.add_shipment("001", "NORTH FAIRVIEW", 10)
 logistic_system.display_shipments()
